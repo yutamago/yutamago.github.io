@@ -1,6 +1,7 @@
 body {
-	background-color: black;
-	color: #89a3bb;
+	background: rgb(18, 18, 18);
+	background: radial-gradient(circle, rgba(54, 54, 54, 0.5), rgba(4, 4, 4, 0.9) ), url(bg.png);
+	color: rgb(184, 199, 214);
 	font-family: Verdana, sans-serif;
 	
 	display: flex;
@@ -23,6 +24,10 @@ h1 {
 
 h1, h2 {
 	text-align: center;
+}
+
+h2 {
+	padding-left: 14px;
 }
 
 fieldset {
