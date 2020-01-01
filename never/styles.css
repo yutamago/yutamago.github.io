@@ -13,11 +13,11 @@ body {
 
 /* jump fix */
 h1 {
-	min-height: 117px;
+	min-height: 96px;
 }
 /* jump fix */
 #category {
-    min-height: 19px;
+    min-height: 24px;
 }
 
 h1, h2 {
