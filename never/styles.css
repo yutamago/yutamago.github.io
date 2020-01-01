@@ -47,7 +47,7 @@ ul {
 
 
 :checked + span {
-	color: green;
+	color: orange;
 }
 input:not(:checked) + span, input + span > span {
     color: lightslategrey;
