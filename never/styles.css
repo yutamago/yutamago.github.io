@@ -69,7 +69,10 @@ li > label {
 	width: 100%;
 }
 
+a {
+	text-decoration: underline;
+}
+
 a, li > label {
 	cursor: pointer;
-	text-decoration: underline;
 }
