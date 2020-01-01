@@ -71,4 +71,5 @@ li > label {
 
 a, li > label {
 	cursor: pointer;
+	text-decoration: underline;
 }
