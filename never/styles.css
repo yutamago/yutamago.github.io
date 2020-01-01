@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	color: white;
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: Verdana, sans-serif;	
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+fieldset {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+ul {
+	display: flex;
+	flex-direction: column;
+	list-style-type: none;
+	flex-wrap: wrap;
+	margin: 0;
+    padding: 0;
+}
+
+
+:checked + span {
+	color: green;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+
+button, button:focus, button:active {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+    font-size: xx-large;
+    background-color: black;
+    color: orange;
+    border-color: orange;
+	outline: none;
+}
+
+#hideCats.hidden {
+	display: none;
+}
+
+li > label {
+	width: 100%;
+}
+
+a, li > label {
+	cursor: pointer;
+}
