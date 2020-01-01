@@ -14,6 +14,7 @@ body {
 /* jump fix */
 h1 {
 	min-height: 96px;
+	color: orange;
 }
 /* jump fix */
 #category {

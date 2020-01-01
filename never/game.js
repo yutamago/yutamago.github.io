@@ -59,7 +59,7 @@ function getHtmlForCategories(cats) {
 		html += '	<li>\
 						<label>\
 						  <input id="' + getCatId(cat) + '" type="checkbox" checked name="category" value="' + getCatId(cat) + '" title="' + questions.length + ' questions">\
-						  <span title="' + questions.length + ' questions">' + cat + '</span>\
+						  ' + cat + ' [' + questions.length + ' questions]\
 						</label>\
 					</li>\n';
 	}
