@@ -49,6 +49,9 @@ ul {
 :checked + span {
 	color: green;
 }
+input:not(:checked) + span, input + span > span {
+    color: lightslategrey;
+}
 
 form {
 	display: flex;
