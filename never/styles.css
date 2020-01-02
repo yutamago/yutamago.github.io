@@ -17,6 +17,9 @@ h1 {
 	min-height: 96px;
 	color: orange;
 }
+h1::first-letter {
+    text-transform: uppercase;
+}
 /* jump fix */
 #category {
     min-height: 24px;

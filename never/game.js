@@ -34,8 +34,8 @@ function processQuestions(text) {
 			var name = line.substr(1, line.length - 2);
 			_categories.set(name, []);
 			lastCategory = name;
-		} else if(line.length > 0) {
-			// if question
+		} else if(line.length > 0 && !line.startsWith('#')) {
+			// if question and not a comment
 			_categories.get(lastCategory).push(line);
 		}
 	}
