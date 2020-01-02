@@ -1,5 +1,6 @@
 const questionsFile = 'questions.txt';
 var questions;
+var selectedQuestionsCount = 0;
 
 function toggleCats() {
 	var el = document.getElementById('hideCats');
@@ -58,7 +59,7 @@ function getHtmlForCategories(cats) {
 		var questions = cats.get(cat);
 		html += '	<li>\
 						<label>\
-						  <input id="' + getCatId(cat) + '" type="checkbox" checked name="category" value="' + getCatId(cat) + '" title="' + questions.length + ' questions">\
+						  <input id="' + getCatId(cat) + '" type="checkbox" checked name="category" value="' + getCatId(cat) + '" onchange="updateCategories()">\
 						  <span>' + cat + ' <span>[' + questions.length + ' questions]</span></span>\
 						</label>\
 					</li>\n';
@@ -94,6 +95,19 @@ function findCategory(questionId, selectedCatsArr, questionStackArr) {
 		catId++;
 	}
 	return selectedCatsArr[catId];
+}
+
+function updateCategories() {
+	document.getElementById('selectedCount').innerHTML = '(' + countSelectedQuestions() + ' selected questions)');
+}
+
+function countSelectedQuestions() {
+	var selectedCategories = getSelectedCategories();
+	var count = 0;
+	for(const cat of selectedCategories) {
+		count += questions.get(cat).length;
+	}
+	return count;
 }
 
 function selectQuestion() {
