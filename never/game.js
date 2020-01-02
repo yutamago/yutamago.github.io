@@ -50,6 +50,9 @@ function getCatId(cat) {
 	return cat.replace(/[\W]/g, '_') + '_Checkbox';
 }
 
+function compareCategoriesReverse(first, second) {
+	return compareCategories(second, first);
+}
 function compareCategories(first, second) {
 	return questions.get(first).length - questions.get(second).length;
 }
@@ -57,7 +60,7 @@ function compareCategories(first, second) {
 function getHtmlForCategories(cats) {
 	var html = ''
 	var catsSorted = Array.from(cats.keys());
-	catsSorted.sort(compareCategories);
+	catsSorted.sort(compareCategoriesReverse);
 	
 	for (const cat of catsSorted) {
 		var questions = cats.get(cat);
