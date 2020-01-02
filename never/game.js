@@ -98,7 +98,7 @@ function findCategory(questionId, selectedCatsArr, questionStackArr) {
 }
 
 function updateCategories() {
-	document.getElementById('selectedCount').innerHTML = '(' + countSelectedQuestions() + ' selected questions)');
+	document.getElementById('selectedCount').innerHTML = '(' + countSelectedQuestions() + ' selected questions)';
 }
 
 function countSelectedQuestions() {
