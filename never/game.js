@@ -126,3 +126,4 @@ function selectQuestion() {
 }
 
 readFile(questionsFile, processQuestions);
+updateCategories();
