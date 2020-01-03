@@ -1,4 +1,4 @@
-const questionsFile = 'questions.txt';
+var questionsFile = 'questions.txt';
 var questions;
 var selectedQuestionsCount = 0;
 
@@ -62,7 +62,7 @@ function getHtmlForCategories(cats) {
 	var catsSorted = Array.from(cats.keys());
 	catsSorted.sort(compareCategoriesReverse);
 	
-	for (const cat of catsSorted) {
+	for (var cat of catsSorted) {
 		var questions = cats.get(cat);
 		html += '	<li>\
 						<label>\
@@ -76,7 +76,7 @@ function getHtmlForCategories(cats) {
 
 function getSelectedCategories() {
 	var selectedCategories = [];
-	for(const cat of questions.keys()) {
+	for(var cat of questions.keys()) {
 		var selected = document.getElementById(getCatId(cat)).checked;
 		if(selected) {
 			selectedCategories.push(cat);
@@ -87,8 +87,8 @@ function getSelectedCategories() {
 
 function getQuestionStack(selectedCategories) {
 	var questionStack = [];
-	for(const cat of selectedCategories) {
-		for(const question of questions.get(cat)) {
+	for(var cat of selectedCategories) {
+		for(var question of questions.get(cat)) {
 			questionStack.push(question);
 		}
 	}
@@ -111,7 +111,7 @@ function updateCategories() {
 function countSelectedQuestions() {
 	var selectedCategories = getSelectedCategories();
 	var count = 0;
-	for(const cat of selectedCategories) {
+	for(var cat of selectedCategories) {
 		count += questions.get(cat).length;
 	}
 	return count;

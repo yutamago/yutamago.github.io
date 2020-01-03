@@ -1,0 +1,1148 @@
+# German translations
+# work in progress!
+# [^\.]$
+# ^(?:(?!Ich hab noch nie ).)*$
+
+[Allgemein]
+Ich hab noch nie mich nicht von meiner Familie geliebt gefühlt (wenn du dich geliebt gefühlt hast, beweg dich).
+Ich hab noch nie nicht an eine Form von Religion geglaubt (wenn man an eine Bewegung glaubt).
+Ich hab noch nie einen perfekten ersten Eindruck landen können.
+Ich hab noch nie Skydiving oder Hanggliding gemacht.
+Ich hab noch nie jemandem mit einer Paintball oder Luftpistole ins Gesicht, in den Schritt oder in den Arsch geschossen.
+Ich hab noch nie Laser-Tag gespielt.
+Ich hab noch nie auf einer echten Airsoft-Veranstaltung Airsoft gespielt.
+Ich hab noch nie einen 4K-Fernseher besessen, der größer als 55 Zoll war.
+Ich hab noch nie einen Bungee-Sprung gemacht.
+Ich hab noch nie mit meinem Haustier geknuddelt.
+Ich hab noch nie mich von meinem Haustier aufwecken lassen.
+Ich hab noch nie Extremsportarten betrieben (XGames, BMX, Dirt Biking, Skateboard, Surfen, Snowboarden)
+Ich hab noch nie in der Dusche gepinkelt.
+Ich hab noch nie meine Haarfarbe geändert.
+Ich hab noch nie wegen eines Animes geweint.
+Ich hab noch nie Meme über eine Stunde angeschaut.
+Ich hab noch nie Imgur benutzt.
+Ich hab noch nie Social Media genutzt.
+Ich hab noch nie nicht um eine Bestelländerung gebeten, die in einem Restaurant eindeutig falsch war.
+Ich hab noch nie jemandem weniger als 2 Euro Trinkgeld gegeben.
+Ich hab noch nie jemandem 80 Euro oder mehr Trinkgeld gegeben.
+Ich hab noch nie meine Nägel gefärbt.
+Ich hab noch nie mir einen Zahn entfernen lassen (keine Weisheitszähne).
+Ich hab noch nie mir einen meiner eigenen Knochen gebrochen.
+Ich hab noch nie meine eigenen Genitalien durch einen Unfall verletzt.
+Ich hab noch nie jemandem in den Schritt gegriffen/gehauen.
+Ich hab noch nie in einer geschlossenen Umgebung gefurzt, wenn andere Leute dabei waren.
+Ich hab noch nie bei einem Aprilscherz in der Schule teilgenommen.
+Ich hab noch nie mir ein Tattoo oder ein Branding stechen lassen.
+Ich hab noch nie hatte noch nie eine "Das ist Meins"-Phase.
+Ich hab noch nie länger als 5 Jahre am selben Ort gelebt.
+Ich hab noch nie einen peinlichen Moment erlebt.
+Ich hab noch nie jemanden ein Bein gestellt.
+Ich hab noch nie in einem Theaterstück gespielt.
+Ich hab noch nie mehr als ein Haustier gehabt.
+Ich hab noch nie geraucht oder gevapet.
+Ich hab noch nie das neueste Telefonmodell gehabt.
+Ich hab noch nie eine Nintendo 64, SNES, Sega Dreamcast oder eine PS1 besessen.
+Ich hab noch nie eine Lüge erzählt, um jemanden vor der Wahrheit zu schützen.
+Ich hab noch nie mich um mein Aussehen gekümmert (Wenn es dir egal ist wie du aussiehst, beweg dich).
+Ich hab noch nie Star Wars oder Star Trek gegenüber dem anderen bevorzugt.
+Ich hab noch nie wegen einer Filmszene geweint.
+Ich hab noch nie tief in eine Show oder einen Anime investiert.
+Ich hab noch nie einen Cartoon gesehen, der über 50 Jahre alt ist [[ > Rocky and Bullwinkle, Mr. Magoo, The Jetsons, Yogi Bear, Flintstones, Tom and Jerry, Huckleberry Hound, Looney Toons, Deputy Dawg, Top Cat, Popeye the Sailor Man, Steamboat Willie, Woody Woodpecker, Mighty Mouse, Space Ghost, Scooby Doo, The Pink Panther, Droopy, Astro Boy, Speed Racer, Animaniacs < ]].
+Ich hab noch nie ein Feuerwerk gesehen.
+Ich hab noch nie an einer Parade teilgenommen.
+Ich hab noch nie eine Wette gewonnen, die für 50 Euro oder mehr war.
+Ich hab noch nie die Grippe gehabt.
+Ich hab noch nie eine Lebensmittelvergiftung gehabt.
+Ich hab noch nie so stark lachen müssen, dass ich mich eingepisst habe.
+Ich hab noch nie geniest und mir dabei in die Hose geschissen.
+Ich hab noch nie geniest, während ich im Stehen p*sste.
+Ich hab noch nie ehrenamtliche Arbeit geleistet.
+Ich hab noch nie einen Ghost Pepper oder South Carolina Reaper gegessen.
+Ich hab noch nie etwas gebaut oder repariert.
+Ich hab noch nie einen Geburtstag nach dem 21 Lebensjahr gefeiert.
+Ich hab noch nie einen Strand besucht.
+Ich hab noch nie einen Campingausflug gemacht.
+Ich hab noch nie ein Abo für mehr als ein Jahr abgeschlossen.
+Ich hab noch nie ein Lied mitgesungen oder gerappt.
+Ich hab noch nie mich von einer Show oder einem Film in einer guten Weise beeinflussen lassen [[[ > The Cosby Show, Fresh Prince of Belair, Mr. Rogers, Batman, Superman, Samurai Jack, etc. < ]].
+Ich hab noch nie in einer anderen Zeitspanne leben wollen.
+Ich hab noch nie schmutzige Unterwäsche oder Kleidung getragen.
+Ich hab noch nie einen Comic genossen.
+Ich hab noch nie ein Dragster-Rennen besucht.
+Ich hab noch nie beim Wichteln teilgenommen.
+Ich hab noch nie eine Monster Truck Rallye besucht.
+Ich hab noch nie ein Online-Quiz gespielt.
+Ich hab noch nie ein Kartenspiel gespielt.
+Ich hab noch nie in der Badewanne geschlafen.
+Ich hab noch nie einen imaginären Freund gehabt.
+Ich hab noch nie einen Flohmarkt besucht.
+Ich hab noch nie heimlich meine Geschenke gesehen, bevor ich sie bekam. (Geburtstag, Weihnachten oder sonstwie).
+Ich hab noch nie impulsiv Dinge gekauft oder bestellt.
+Ich hab noch nie eine ganze Show oder einen Anime gesehen.
+Ich hab noch nie ein Handy kaputt gemacht.
+Ich hab noch nie mit einem Boot gefahren oder bin auf einer Kreuzfahrt gewesen.
+Ich hab noch nie einen Freizeitpark besucht (Six Flags, Universal Studios, Disney Land, etc).
+Ich hab noch nie eine Zahnspange gehabt.
+Ich hab noch nie Blut oder ein Organ gespendet.
+Ich hab noch nie ein Organ oder ein Stück eines Organs entfernen lassen.
+Ich hab noch nie "Ich zeige dir meins, wenn du mir deins zeigst" gespielt.
+Ich hab noch nie mich um mein Sternzeichen gekümmert.
+Ich hab noch nie eine Rede gehalten.
+Ich hab noch nie ein Tier gerettet.
+Ich hab noch nie jemandem geholfen, ohne jemals eine Gegenleistung zu erwarten.
+Ich hab noch nie einen Freund ausgeführt, der es sich nicht leisten konnte, und nie eine Gegenleistung erwartet.
+Ich hab noch nie den Freund gemacht, der die Couch verschiebt und die Leiche begraben hilft.
+Ich hab noch nie mit einem Freund wegen einer Dummheit gestritten.
+Ich hab noch nie mit einem Freund gestritten, um zu zeigen, wer Recht hat und danach waren wir immer noch Freunde.
+Ich hab noch nie mich darüber glücklich gefühlt, in der Friendzone zu sein.
+Ich hab noch nie einen Freund bei mir übernachten lassen.
+Ich hab noch nie einem Freund geholfen, besser in Form zu kommen (Fitnessstudio, Training, Ernährung).
+Ich hab noch nie jemandem geholfen, der obdachlos war, aber nicht mit Geld oder Essen.
+Ich hab noch nie einem Freund etwas geschenkt, das mehr als 500 Euro wert war.
+Ich hab noch nie mich für einen Freund gefreut, der etwas besser macht oder mehr Erfolg hat.
+Ich hab noch nie mich für jemanden eingesetzt, den ich nicht kannte.
+Ich hab noch nie Absätze getragen.
+Ich hab noch nie den Geruch von frischem Benzin geliebt.
+Ich hab noch nie den Geruch von Filzstiften oder Markern geliebt.
+Ich hab noch nie eine allergische Reaktion auf etwas gehabt, die mich fast umgebracht hätte.
+Ich hab noch nie einen ganzen Tag auf Youtube verbracht.
+Ich hab noch nie ein Spiel in schwarz-weiß oder auf einem CRT gespielt.
+Ich hab noch nie so lange Haare gehabt, dass sie meinen Hintern berührten.
+Ich hab noch nie jemandem ins Gesicht gemalt, während er geschlafen hat.
+Ich hab noch nie beim Trinken gelacht, sodass mir der Drink aus der Nase wieder rauskam.
+Ich hab noch nie über etwas gelacht, über das man nicht lachen sollte.
+Ich hab noch nie bei einer kirchlichen Aktivität teilgenommen (Weihnachtssingen, Osterjagd, ehrenamtliche Arbeit, etc).
+Ich hab noch nie einen Anmachspruch benutzt.
+Ich hab noch nie mir gewünscht, dass das Leben wie ein Anime oder ein Spiel wäre.
+Ich hab noch nie wegen Autokorrektur einen Text komplett falsch abgeschickt.
+Ich hab noch nie ein Schrottplatzauto repariert und es als mein Hauptfahrzeug benutzt.
+Ich hab noch nie gesagt, dass ich nie wieder trinken werde.
+Ich hab noch nie in einen Pool gepinkelt.
+Ich hab noch nie ein Tier zu einem Kampf herausgefordert.
+Ich hab noch nie in völliger Dunkelheit das Bad benutzt.
+Ich hab noch nie vor einem Hund weglaufen müssen, der mich gejagt hat.
+Ich hab noch nie Crocs getragen.
+Ich hab noch nie Durchfall gehabt und musste gleichzeitig kotzen.
+Ich hab noch nie versucht, das Passwort von jemandem zu erraten.
+Ich hab noch nie ein Tier geküsst.
+Ich hab noch nie in einem Aufzug gefurzt und so getan, als wäre ich es nicht.
+Ich hab noch nie auf einem Hochseil gelaufen.
+Ich hab noch nie mein Gesicht zwischen Gefängnisstangen eingeklemmt.
+Ich hab noch nie wissentlich eine kaputte Uhr getragen.
+Ich hab noch nie jemanden verloren und bin der falschen Person in der Menge gefolgt.
+Ich hab noch nie eine Schiebetür gezogen.
+Ich hab noch nie Tinte in meiner Tasche verschüttet.
+Ich hab noch nie jemandem ein blaues Auge verpasst.
+Ich hab noch nie etwas getan, von dem ich dachte, ich würde es nie tun.
+Ich hab noch nie eine Einladung für einen Dreier bekommen.
+Ich hab noch nie nackt in einem fremden Pool geschwommen.
+Ich hab noch nie betrunken Spiele wie diese gespielt.
+Ich hab noch nie aus Versehen eine Masseurin während einer Massage getreten.
+Ich hab noch nie jemanden mit meinem Schnarchen aufgeweckt.
+Ich hab noch nie jemandem gesagt, dass ich irgendwo hingehen würde, ohne die Absicht zu haben, irgendwo hinzugehen.
+Ich hab noch nie so getan, als wäre ich ein Einbrecher.
+Ich hab noch nie meine Eltern verarscht.
+Ich hab noch nie mich in einem fahrenden Fahrzeug eingepinkelt.
+Ich hab noch nie nackt oder mit minimaler Kleidung Auto gefahren.
+Ich hab noch nie in einem steckengebliebenen Aufzug gestanden.
+Ich hab noch nie bei Karaoke mitgesungen.
+Ich hab noch nie die 5-Sekunden-Regel für Essen benutzt, das runtergefallen ist.
+Ich hab noch nie mein Telefon in die Toilette fallen lassen.
+Ich hab noch nie blaue Flecken entdeckt und wusste nicht, wie sie da hingekommen sind.
+Ich hab noch nie einen Fremden geküsst.
+Ich hab noch nie länger als 48 Stunden meine Zähne nicht geputzt.
+Ich hab noch nie mir die Haare in einer falschen Farbe gefärbt.
+Ich hab noch nie laut in der Dusche eines Freundes gesungen.
+Ich hab noch nie versucht, auf dem Rücken liegend fernzusehen.
+Ich hab noch nie vor einer Katze weglaufen müssen, die mich gejagt hat.
+Ich hab noch nie mich aus einer Bar rauswerfen lassen.
+Ich hab noch nie mich übergeben und es wieder runtergeschluckt.
+Ich hab noch nie eine rote Ampel überfahren.
+Ich hab noch nie mein Handy durchsucht, um mich an die Nacht davor zu erinnern (nach dem Trinken).
+Ich hab noch nie einen Account erstellt, nur um Leute zu stalken (Instagram, Facebook, Twitter, etc.)
+
+
+[Schule]
+Ich hab noch nie nicht ein Projekt angeführt (immer Projektleiter gewesen? beweg dich).
+Ich hab noch nie bei einem Test geschummelt und bestanden.
+Ich hab noch nie die Arbeit eines Klassenkameraden kopiert und bestanden.
+Ich hab noch nie nachgesessen.
+Ich hab noch nie eine Suspendierung bekommen.
+Ich hab noch nie mich von einer Schule werfen lassen.
+Ich hab noch nie mich von einer Schule verweisen lassen.
+Ich hab noch nie eine Klasse oder einen Kurs durchgefallen.
+Ich hab noch nie eine Klasse wiederholen müssen.
+Ich hab noch nie eine Klasse übersprungen.
+Ich hab noch nie mich in der Schule geprügelt.
+Ich hab noch nie eine Schießerei an meiner Schule gehabt.
+Ich hab noch nie eine Waffe mit in die Schule gebracht.
+Ich hab noch nie Drogen, Alkohol, Tabak oder Nikotin in die Schule mitgebracht.
+Ich hab noch nie mich mit Drogen, Alkohol, Tabak oder Nikotinprodukten in der Schule erwischen lassen.
+Ich hab noch nie einen unkonventionellen Gegenstand als Waffe benutzt (Buch, Schreibtisch, etc.).
+Ich hab noch nie Probleme mit der Anwesenheit gehabt.
+Ich hab noch nie einen Schul-Aprilscherz gesehen oder teilgenommen, der weit über die Linie ging.
+Ich hab noch nie eine Klasse unter Drogen gesetzt (Pot Brownies und niemand wusste es, etc.).
+Ich hab noch nie mehrere Sportspiele hintereinander gewonnen.
+Ich hab noch nie in einer Nationalmannschaft gespielt.
+Ich hab noch nie in einer Nationalmannschaft gespielt und ein Spiel gewonnen.
+Ich hab noch nie in einer Band oder einem Orchester gespielt.
+Ich hab noch nie in einer Band oder einem Orchester außerhalb von Deutschland gespielt.
+Ich hab noch nie mich zum Klassensprecher wählen lassen.
+Ich hab noch nie mich in einem Jahrbuch abdrucken lassen.
+Ich hab noch nie die Grund-, Mittel- und Oberschule abgeschlossen.
+Ich hab noch nie ein Internat besucht.
+Ich hab noch nie eine Ganzjahresschule besucht.
+Ich hab noch nie eine Privatschule besucht.
+Ich hab noch nie die Schule gewechselt, weil ich gemobbt wurde.
+Ich hab noch nie Unterricht zuhause bekommen.
+Ich hab noch nie eine oder mehrere Sprachen in der Schule gelernt.
+Ich hab noch nie einen Kunstkurs belegt.
+Ich hab noch nie einen Kurs in Automobiltechnik belegt.
+Ich hab noch nie einen Shop-Kurs belegt.
+Ich hab noch nie eine Klasse besucht, wo mit Holz gearbeitet wurde.
+Ich hab noch nie einen Hauswirtschaftskurs gemacht.
+Ich hab noch nie einen Tierarztkurs besucht.
+Ich hab noch nie einen Kurs in Strafjustiz besucht.
+Ich hab noch nie ein JROTC oder einen gleichwertigen Kurs (Boot Camp für Kinder) besucht.
+Ich hab noch nie einen Jura-Kurs belegt.
+Ich hab noch nie einen Business-Class besucht.
+Ich hab noch nie eine First Responder-, CPR- oder EMT-Basic-Schulung absolviert.
+Ich hab noch nie einen AP-Kurs besucht.
+Ich hab noch nie auf der Ehrenliste gestanden oder auf der Liste der Dekane.
+Ich hab noch nie an einer Essensschlacht teilgenommen.
+Ich hab noch nie eine oder mehrere Klassen übersprungen.
+Ich hab noch nie geschwänzt.
+Ich hab noch nie nicht einen Schulball besucht.
+Ich hab noch nie einen Abschlussball besucht.
+Ich hab noch nie Schneefrei gehabt und durfte zuhause bleiben.
+Ich hab noch nie eine Sommerschule besucht.
+Ich hab noch nie Wissen benutzt, das ich in der Schule gelernt habe.
+Ich hab noch nie ein Stipendium bekommen.
+Ich hab noch nie gewusst, was ich nach der Schule werden würde.
+Ich hab noch nie einen Job gehabt, während ich zur Schule ging.
+Ich hab noch nie Drogen oder Alkohol in der Schule verkauft.
+Ich hab noch nie Minderjährigen Zigaretten gekauft (warst du 18 und hast Leuten Zigaretten gekauft, die nicht 18 waren?).
+Ich hab noch nie einen Schulweg gehabt, der länger als 2 KM war.
+Ich hab noch nie Förderunterricht genommen.
+Ich hab noch nie eine Sonderschule besucht.
+Ich hab noch nie ein Programm für Hochbegabte Schüler besucht.
+Ich hätte nie gedacht, dass ich der erste in meiner Familie sein würde, der die High School abschließt und sein Diplom erhält (als erster ein Diplom erhält, Glückwunsch!)
+Ich hab noch nie ein Diplom oder einen GED gemacht.
+Nie habe ich den Fitness-Gram Pacer-Test nicht vergessen (noch immer in Erinnerung? Umzug)
+Ich hab noch nie über die Fensterlecker gelacht, weil ich etwas getan habe.
+Ich wurde noch nie in der Schule vor Leuten angehimmelt.
+Ich hab noch nie ein Buch für den Englischunterricht gelesen und es tatsächlich genossen
+Ich hab noch nie einen Ausflug in einen Park gemacht.
+Ich war noch nie auf einem Ausflug zu einem Theaterstück.
+Ich war noch nie auf einem Ausflug nach Washington D.C. oder in eine andere Hauptstadt.
+Ich hab noch nie jemanden beim Völkerball fertig gemacht.
+Ich hab noch nie jemanden in der Schule ausgeknockt.
+Ich hab die Schule nie unter Verschluss gehalten, indem ich etwas wirklich Dummes getan habe.
+Ich hab noch nie die Unterschrift meiner Eltern gefälscht.
+Ich bin noch nie in der Schule eingeschlafen.
+Ich hatte noch nie ein Haustier der Klasse.
+Ich hatte noch nie einen Tutor oder war nie ein Tutor
+Ich hab noch nie mein Handy in der Schule abgenommen.
+Ich war noch nie das Haustier eines Lehrers oder ein Lehrergehilfe
+Ich hab noch nie den Feueralarm absichtlich ausgelöst.
+Ich bin noch nie mit meinem eigenen Fahrzeug zur Schule gefahren
+Ich hab nie die Schule abgebrochen.
+Ich hab noch nie einem Lehrer etwas gesagt (einem Lehrer gesagt, er solle sich verpissen, ihn zu etwas herausfordern, usw.)
+Ich hab noch nie Klebstoff gegessen.
+Ich war noch nie Teil eines Clubs.
+Ich hab noch nie vier Jahre oder länger Sport getrieben.
+Ich wurde noch nie von der Polizei aus einem Kurs genommen.
+Ich war noch nie Teil eines Schikanierungsrituals (Senioren schikanieren Neulinge)
+Ich hab noch nie einen Rüpel dazu gebracht, sich zurückzuziehen oder ihn zu Fall zu bringen.
+Ich hatte noch nie eine Beziehung, die vom Beginn des Schuljahres bis zum Ende des Schuljahres oder länger dauerte.
+
+
+[Arbeit]
+Ich hab noch nie Geld aus einer Kasse gestohlen, während ich an ihr gearbeitet habe.
+Ich hab noch nie versucht, jemanden bei der Arbeit zu erpressen.
+Ich hab noch nie Kollegen beim Ficken erwischt oder wurde erwischt.
+Ich hab meinen Boss noch nie um eine Position oder eine Gehaltserhöhung gevögelt.
+Ich hab noch nie einen Kunden oder Klienten direkt ins Gesicht gelogen.
+Ich hab noch nie die ehrliche und brutale Wahrheit in das Gesicht eines Kunden oder Klienten gesagt.
+Ich bin noch nie an einem Ort ausgeraubt worden, an dem ich gearbeitet habe.
+Ich hab noch nie an einem Ort gearbeitet, wo ein aktiver Schütze
+Ich hab noch nie von meinem Arbeitsplatz gestohlen.
+Ich hab mich noch nie bei der Arbeit geprügelt und bin nie in eine Prügelei geraten.
+Ich bin noch nie gefeuert worden.
+Ich hab noch nie im Einzelhandel, in Restaurants, Bars, Clubs, im Verkauf oder im Kundenservice gearbeitet.
+Ich hatte noch nie einen Job, der mehr als 50.000 im Jahr einbringt.
+Ich hatte noch nie einen Job, der mehr als 100.000 im Jahr einbringt.
+Ich musste noch nie jemanden feuern.
+Ich hab noch nie eine Politik eingeführt, die so dumm oder kontraproduktiv war, dass ich gekündigt habe.
+Ich hatte noch nie einen beschissenen Chef.
+Ich hab noch nie einen Mitarbeiter wegen Faulheit verraten.
+Ich wurde noch nie von einem Kunden oder Klienten bedroht.
+Ich hab nie erkannt, dass ich wegen meines Jobs trainieren muss.
+Ich hab noch nie nachts oder auf dem Friedhof gearbeitet (19:00 - 08:00 Uhr)
+Ich hab noch nie mehr als 12 Stunden am Tag gearbeitet.
+Ich hab noch nie mehr als 100 Stunden in der Woche gearbeitet.
+Ich hab noch nie extrem gefährliche Bedingungen erlebt, wo ich arbeite.
+Ich hätte nie gedacht, dass ich meinen Traumjob bekommen könnte.
+Ich bin noch nie zur Arbeit gereist.
+Ich wollte noch nie einfach nur zusehen, wie der Ort, an dem ich arbeite, niedergebrannt wird.
+Ich hab noch nie in meinem Leben einen Tag gearbeitet.
+Ich wurde noch nie gekündigt oder zur Kündigung aufgefordert
+Ich hab noch nie mehr als einen Job auf einmal gemacht.
+Ich hab noch nie erlebt, dass jemand gefeuert wurde.
+Ich hab noch nie einen Kunden oder Klienten angeschrien.
+Ich bin noch nie innerhalb von sechs Monaten befördert worden.
+Ich wurde noch nie als Mitarbeiter des Monats oder für meine Arbeit ausgezeichnet.
+Ich hab noch nie etwas bei der Arbeit absichtlich kaputt gemacht.
+Ich bin noch nie bei der Arbeit eingeschlafen.
+Ich hab mich noch nie bei der Arbeit ernsthaft verletzt
+Ich bin noch nie ohne eine zweiwöchige Kündigungsfrist gegangen.
+Ich bin noch nie mit einer zweiwöchigen Kündigungsfrist gegangen, sondern habe früher gekündigt
+Ich hab noch nie mit dem Kundensupport gearbeitet.
+Ich musste noch nie erklären, wie etwas wirklich funktioniert.
+Ich hab noch nie mit einem Kunden zu tun gehabt, der unglaublich dumm war oder dem es am grundlegendsten an Verständnis für etwas fehlte.
+Ich bin noch nie betrunken oder high zur Arbeit gegangen oder während der Arbeit betrunken oder high geworden.
+Ich bin noch nie wegen etwas verklagt worden, das ich bei der Arbeit gesagt oder getan habe.
+Ich hab noch nie einen Job länger als 1 Jahr ausgeübt.
+Ich hab noch nie einen Job für weniger als einen Monat gehalten.
+Ich hab noch nie einen Job gehabt, der nur auf Provisionsbasis
+Ich hab noch nie einen Bonus bekommen.
+Ich hab noch nie eine Gehaltserhöhung von 5 Dollar pro Stunde oder mehr innerhalb eines Jahres bekommen.
+Ich hab noch nie einen Verkauf für mehr als 10.000 Dollar gemacht.
+Ich hab noch nie einen Verkauf für mehr als 1 Million Dollar gemacht.
+Ich hab noch nie etwas so schlechtes über einen Ort gelernt, an dem ich gearbeitet habe, dass ich dort nie wieder essen oder einkaufen würde.
+Ich war noch nie in einer Gewerkschaft oder Gilde
+Ich war noch nie ein Supervisor oder Manager
+Ich hab noch nie länger als eine Stunde mit einem Kunden oder Klienten telefoniert.
+Ich war noch nie Teil einer großen Veranstaltung, wie z.B. eines Kongresses, einer Hochzeit oder sonst wie
+Ich hab noch nie jemanden in einer anderen Sprache schlecht geredet und mich dann in dieser Sprache angesprochen.
+Ich war noch nie Freiberufler oder Unternehmer.
+Ich hab noch nie mehr als 250 Dollar mit einem einzigen Kunstwerk verdient.
+Ich musste noch nie einen Polizeibericht über einen Vorfall auf der Arbeit einreichen.
+Ich hatte noch nie einen Job, über den ich wirklich glücklich war.
+Ich hatte noch nie einen Job, als ich obdachlos war.
+Ich bin noch nie diskriminiert worden, wo ich arbeite.
+Ich bin noch nie degradiert worden.
+Ich hab noch nie jemanden angerufen, der die Nacht zuvor gefeiert hat und ihm gesagt, er solle zur Arbeit gehen.
+Ich musste noch nie jemanden um seine Periode bitten oder sie bereinigen.
+Ich bin noch nie ohne Baden zur Arbeit gegangen.
+Ich hab noch nie auf meinen Chef gehustet.
+
+
+[Sexuell]
+Ich hatte noch nie Sex für Drogen, Alkohol oder Geld.
+Ich hab noch nie Sex mit einer Sexpuppe gehabt.
+Ich hatte noch nie Sex an einem öffentlichen Ort mit mehr als 50 Personen (Schule, Einkaufszentrum, etc.).
+Ich hab noch nie Sex für eine bessere Note angeboten
+Ich wollte noch nie mit jemandem unter 18 Jahren Sex haben (Knastköder)
+Ich hab noch nie mit jemandem geflirtet oder Sex gehabt und herausgefunden, dass sie unter 18 Jahre alt sind (Gefängnisköder).
+Ich hab noch nie Freund oder Feind von einem Elternteil gefickt.
+Ich hab noch nie das Geschwisterchen eines Freundes gevögelt.
+Ich hab noch nie mit jemandem Sex gehabt und ein Gespräch mit einer anderen Person geführt
+Ich hab noch nie ein Spiel verloren, bei dem ich Sex hatte.
+Ich hatte noch nie Sex mit Psychedelika.
+Ich hab noch nie BDSM versucht.
+Ich hab noch nie unaufgefordert Nacktbilder geschickt, die beim Sex mit dieser Person endeten.
+Ich hab noch nie meinen Körper auf Second Life, IMVU oder VRChat, etc. verkauft.
+Ich hab noch nie Sex mit einem völlig Fremden gehabt.
+Ich war noch nie in einem Bordell oder Katzenhaus
+Ich hatte noch nie Sex mit einer Stripperin, Escortlady, Nutte, etc.
+Ich war noch nie in einem Sexverlies
+Ich hab mich noch nie zu Futas oder Fallen sexuell hingezogen gefühlt
+Ich hatte noch nie Sex mit einer Futa oder Falle.
+Ich hab noch nie Analverkehr oder Peggy gemacht.
+Niemals bin ich vom Knutschen oder Vorspiel geil geworden (nicht geil davon? Umzug)
+Ich hatte noch nie Sex in einem öffentlichen Schwimmbad oder Wasserpark während der Geschäftszeiten
+Ich hatte noch nie so viel Sex und habe so gefurzt, dass es die Stimmung zerstört hat.
+Ich bin noch nie beim Sex mit oder ohne Rausch eingeschlafen.
+Ich hab mich noch nie berauscht, mit jemandem Sex zu haben (Brauchen Sie eine Bierbrille oder einen anderen Schuss? Bewegung.)
+Ich war noch nie in einer Orgie.
+Ich hab noch nie ein VR Sex Toy benutzt
+Ich hatte noch nie Sex mit Zwillingen.
+Ich hab noch nie Leute beim Sex überrascht.
+Ich hab noch nie Eltern oder Geschwister beim Sex überrascht.
+Ich hatte noch nie Telefonsex.
+Ich hatte noch nie Sex mit einer Pelzigen im Pelzanzug.
+Niemals habe ich jemals einen Road Head bekommen oder gegeben.
+Ich hatte noch nie Sex mit einem Behinderten (wie z.B. beim Parken der Mütze).
+Ich hab noch nie Sex mit einem Zwerg (4 Fuß 11 Zoll oder kürzer) gehabt.
+Ich hab mich noch nie für Oralsex trainiert (versucht, besser zu werden beim p*ssy essen oder c*ck lutschen?)
+Ich hab mich noch nie für Analsex trainiert.
+Ich hab noch nie etwas von Bad Dragon beim Sex benutzt.
+Ich war noch nie Teil eines Glory Hole
+Ich hab noch nie versucht, jemanden mit einer Schwangerschaft in eine Falle zu locken.
+Ich hab noch nie die Person betrogen, die ein Freund betrügen würde.
+Ich hab nie in Betracht gezogen, es versucht, oder wurde ein Cam Model oder eine Pornokarriere
+Ich hab mich noch nie für einen erotischen Roman oder Hentai-Comic nur wegen der Geschichte interessiert.
+Ich hab noch nie etwas in Erotica geschrieben oder gezeichnet.
+Ich hab noch nie einen Sexfilm gemacht.
+Ich wollte noch nie einen Untoten, Vampir, Dämon oder eine andere Form von Untoten f*cken.
+Ich hab noch nie eine Kerze, Peitsche, Seil, Handschellen oder Ketten beim Sex oder Vorspiel benutzt.
+Ich hab noch nie eine Trophäe nach dem Sex genommen (Höschen nach dem Sex genommen? Umzug)
+Ich hab noch nie so oft an einem Tag masturbiert, dass ich nicht mehr org*sm
+Ich hab noch nie an dem Tag masturbiert, an dem jemand starb, den ich kannte.
+Ich hab noch nie jemanden beim Masturbieren erwischt oder wurde beim Masturbieren erwischt und es führte zu Sex.
+Ich hab noch nie vor dem Sex mit jemandem aufgehört, weil die Unterwäsche, die er anhatte, eine Schleuderspur hatte.
+Ich hatte noch nie Sex, während ich an etwas gefesselt war.
+Ich hatte noch nie Webcam-Sex.
+Ich hatte noch nie einen Fußjob
+Noch nie habe ich jedes Loch gleichzeitig durchbohrt
+Ich bin noch nie aus einem Dreier gesprungen, weil einer von ihnen hässlich war.
+Ich hatte noch nie so langweiligen Sex, dass ich ohne zu kommen gegangen bin.
+Ich hatte noch nie Sex und es war mir egal, ob die andere Person kam oder nicht.
+Ich hab noch nie jemandem gesagt, dass er schlecht beim Sex ist.
+Ich hab noch nie einen Booty Call erhalten oder initiiert.
+Ich hab noch nie an der Seite eines anderen masturbiert.
+Ich hab noch nie Sex mit Musik gehabt.
+Ich hab noch nie mehr als 1.000 Dollar in einem Monat für Sexspielzeug und oder Dessous ausgegeben.
+Ich war noch nie so geil, dass ich jemanden oder etwas r*pipen würde.
+Ich hab noch nie die Batterien aus einem Spielzeug oder Haushaltsgegenstand entnommen und in einem Sexspielzeug verwendet.
+Ich hab noch nie mein eigenes Sexspielzeug gemacht.
+Ich hab noch nie jemanden auf ungewöhnliche Weise kennengelernt und am Ende Sex mit ihm gehabt.
+Ich hab noch nie ein Vorspiel gehabt, das eine Stunde oder länger gedauert hat.
+Ich hatte noch nie Sex mit mehr als 15 verschiedenen Menschen.
+Noch nie bin ich so laut zu den Nachbarn gewesen, bin aufgewacht und habe mich beschwert oder die Polizei wurde während oder nach dem Sex gerufen
+Ich hab noch nie Sex gehabt, während ich mit jemandem Pornos geschaut habe.
+Ich hab noch nie einen Freund mit Vorteilen gehabt oder war jemals ein Freund mit Vorteilen
+Ich hab noch nie essbare Unterwäsche oder aromatisierte Sexspielzeuge ausprobiert.
+Ich hab mir nie eine ernsthafte Verletzung durch Sex zugezogen
+Ich hab noch nie auf einem Konzert Sex gehabt.
+Ich hatte noch nie Sex auf einer öffentlichen Toilette.
+Ich bin noch nie beim Masturbieren erwischt worden.
+Ich hab mich noch nie über einen Partner geärgert, weil er nicht gut arbeitet.
+Ich hab noch nie einen Ort nach einer Sitzung benannt.
+Ich hab noch nie an den Zehen gelutscht.
+Ich hab es noch nie mit einem Familienmitglied im selben Raum getan (schmutzig!)
+Ich hab noch nie einem anderen Paar dabei zugesehen.
+Ich hab noch nie die Körperflüssigkeiten eines anderen gekostet.
+Ich hab noch nie in der Öffentlichkeit Kleidung entfernt, die nicht mir gehört.
+Ich wurde noch nie von meinen Eltern überrascht.
+Ich hab noch nie in einem Aufzug rumgemacht.
+Ich hatte noch nie einen Verwandten, der hereingekommen ist, während ich es getrieben habe.
+Ich hab noch nie Essen von jemandem geleckt.
+Ich hab noch nie den Salat
+Ich hab noch nie mit jemandem geschlafen, der nur eine Stunde nach dem Treffen mit ihm
+Ich hab noch nie Nacktfotos von mir/einem anderen gemacht
+Niemals habe ich mich mehr als eine halbe Stunde lang mit meinem Freund/meiner Freundin vergnügt
+Ich hab noch nie die Schamhaare meines Partners rasiert.
+Ich wurde noch nie gewürgt.
+Ich hab noch nie ein vergnügliches Spielzeug gekauft.
+Ich hab noch nie ein Tier dazu gebracht, mein Privatleben zu lecken.
+Ich war noch nie in jemanden aus diesem Kreis verknallt.
+Ich hab noch nie mit dem anderen Geschlecht geduscht.
+Ich hab noch nie Muttermilch gekostet.
+Ich hab noch nie einen Daumen in meinen Arsch gesteckt
+Ich hab meinen Partner beim Sex noch nie im Stich gelassen.
+Ich bin noch nie vor dem Ersticken beim Sex ohnmächtig geworden.
+Ich hab noch nie ein Mädchen/einen Jungen ins Haus geschmuggelt.
+Ich hab noch nie eine Socke benutzt, wenn ich masturbiert habe.
+Ich hab noch nie mit dem Körper eines Partners mehr gespielt als mit meinem eigenen.
+Ich bin noch nie eingeschlafen, wenn ich zusah... Weißt du was?
+Niemals habe ich mich selbst gekostet.
+Ich hab noch nie einem Freund dabei zugesehen.
+Ich hab noch nie eine Sitzung beendet, ohne mich jemals hingelegt zu haben
+Ich wurde noch nie beschuldigt, mit jemand anderem als meinem Partner zusammen zu sein.
+Ich musste noch nie Schmiermittel verwenden.
+Ich bin noch nie beim Sex ausgetrocknet.
+Ich hab es noch nie mit einem Familienmitglied im selben Raum getan.
+Ich hab es noch nie mit einem Familienmitglied im selben Gebäude getan.
+Ich hab es noch nie draußen gemacht.
+Ich hab noch nie von einem Professor geträumt.
+Ich hab es noch nie hinten in einem Pickup gemacht.
+Ich hab noch nie mit mehr als fünf Leuten in einem Bett geschlafen.
+Ich hab es noch nie mit jemandem getan, der mehr als doppelt so alt ist wie ich.
+Ich hab es noch nie unter der Dusche gemacht.
+Ich hab noch nie im Zimmer eines Geschwisters rumgemacht.
+Ich bin noch nie aufgewacht, wenn mir jemand einen geblasen hat
+Ich hab es noch nie mit mehr als einer Person innerhalb von 24 Stunden getan.
+Ich hab mich noch nie zu meinem Haustier hingezogen gefühlt
+Ich hab es noch nie hinten versucht.
+Ich hab es noch nie auf einer Party gemacht.
+Ich hab es noch nie auf der Toilette getan (schmutzig, ich weiß)
+Ich hab noch nie im Auto rumgemacht und aus Versehen gehupt.
+Ich hab meine Eltern noch nie dabei erwischt.
+Ich hatte noch nie einen anhänglichen Partner.
+Ich hab es noch nie vor anderen Leuten getan.
+Ich hab noch nie mit jemandem geschlafen, den ich hässlich fand.
+Ich hab es noch nie in einem Schlafsack getan.
+Ich hab noch nie etwas Böses von meinem Partner geschmeckt.
+Ich hab noch nie ein Kleidungsstück nicht gewaschen, weil jemand anders duftet.
+Ich hab noch nie einen Sugar Daddy gehabt.
+Ich hab noch nie die Pille danach genommen.
+Ich hab noch nie mein Peepee/Vjeejeejee gemessen
+
+
+[Emotional]
+Ich hab noch nie gelogen, um Familie oder Freunde zu erfreuen.
+Ich war noch nie selbstmordgefährdet oder hatte Selbstmordgedanken.
+Ich hab noch nie von etwas traumatisiert, das jemand gesagt hat.
+Ich hab noch nie Selbstmord begangen (du musstest wiederbelebt oder wiederbelebt werden)
+Ich hab noch nie mehr als dreimal versucht, mich umzubringen.
+Ich hab noch nie den Selbstmord von jemandem miterlebt.
+Ich war noch nie der Grund für den Selbstmord eines Menschen.
+Ich hab noch nie etwas benutzt, das nicht scharf auf Selbstverletzung war.
+Ich hab noch nie jemanden sexuell missbraucht oder angegriffen
+Ich hab noch nie eine Überdosis genommen.
+Nie habe ich mich jemals gut über meine sexuelle Orientierung gefühlt (wenn Sie nicht damit einverstanden sind, wer Sie sind, bewegen Sie sich)
+Ich hab mich nie völlig allein gefühlt.
+Ich hatte noch nie ein Geheimnis, das nie enthüllt werden konnte, weil es so schlimm ist.
+Ich hab noch nie ganz alleine getrunken oder bin high geworden.
+Ich wurde noch nie von meiner Familie und meinen Freunden wegen einer Entscheidung, die ich getroffen habe, verstoßen.
+Ich hab mich nie als Last gefühlt.
+Ich hab mir noch nie keine Sorgen um meine Narben gemacht (wenn Sie sich um Ihre Narben kümmern, bewegen Sie sich)
+Ich musste noch nie jemanden halten, während er starb.
+Ich bin noch nie wegen Alkohol oder Drogen im Krankenhaus gelandet.
+Ich war noch nie in der Reha oder in der Psychiatrie.
+Ich hab noch nie um Hilfe gebeten, nur weil es schrecklich nach hinten losgeht.
+Ich hab noch nie jemanden in die Psychiatrie oder Reha eingewiesen.
+Niemals habe ich eine Kunstform als meinen einzigen Frieden empfunden.
+Ich musste noch nie ein Haustier euthanasieren.
+Niemals habe ich einen geliebten Menschen oder Freund verwelken und sterben sehen.
+Ich wollte noch nie einen Mord-Selbstmord begehen.
+Ich bin noch nie schikaniert worden.
+Niemals habe ich mich geliebt gefühlt
+Ich wollte noch nie ein Schulschütze werden.
+Ich hab noch nie jemandem gesagt, er solle Selbstmord begehen, nur um später herauszufinden, dass er es getan hat.
+Ich hab noch nie jemandem vertraut.
+Ich hab noch nie Halluzinationen gehört oder gesehen, ohne dass ich Drogen genommen habe, die meinen Verstand beeinflusst haben.
+Ich bin noch nie in einer Gasse aufgewacht
+Ich bin noch nie in einem fremden Bett aufgewacht
+Ich hab noch nie über etwas Schlimmeres gelogen, um etwas Schlimmeres zu verhindern.
+Ich war noch nie obdachlos.
+Ich musste noch nie die letzten Wünsche von jemandem erfüllen.
+Ich musste noch nie reisen, um die Asche von jemandem zu verstreuen oder zu begraben.
+Ich hatte noch nie eine Essstörung.
+Ich war noch nie drogen- oder alkoholabhängig
+Ich bin noch nie wegen einer psychischen Störung missbraucht oder niedergeschlagen worden.
+Ich bin noch nie wegen einer körperlichen Behinderung missbraucht oder eingeschläfert worden.
+Ich hab noch nie den Kontakt zu jemandem verloren, weil er sich einfach nie wieder eingeloggt hat.
+Ich hab noch nie jemanden geworfen oder geweint und habe ihn trotzdem geliebt
+Ich bin noch nie einfach zusammengebrochen.
+Niemals habe ich ein Gefühl der Zugehörigkeit gefühlt
+Ich musste noch nie jemanden aufgeben, den ich liebe.
+Ich hab noch nie etwas mit meinem eigenen Blut geschrieben.
+Ich hab noch nie an einer PTBS gelitten.
+Ich hab nie geglaubt oder auf die Stimmen gehört.
+Ich hab mich nie normal gefühlt.
+Niemals habe ich gedacht, dass etwas, das über mich hinausgeht, ganz allein meine Schuld war.
+Niemals habe ich Freunde und/oder Familie aufgegeben, um mich zu verbessern, nur um am Ende allein und noch deprimierter zu sein.
+Ich hab noch nie freiwillig Medikamente eingenommen.
+Niemals habe ich Frieden durch Religion gefunden.
+Ich war noch nie mit jemandem zusammen, der selbstmordgefährdet war und ihn verlassen hat.
+Ich bin noch nie zur Therapie gegangen.
+Ich hab mich noch nie vom Körper getrennt gefühlt.
+Nie hat man mir gesagt, dass ich ein Versager bin oder bei etwas nicht erfolgreich sein würde.
+Ich wurde noch nie zu etwas erpresst.
+Ich hab nie nicht geglaubt, dass ich allein sterben würde.
+Ich hab noch nie mit einer Zwangsstörung gekämpft
+Ich hatte noch nie eine Panikattacke.
+Ich hab mich nie sicher oder wohl in der Menge gefühlt.
+Ich hab noch nie mit Paranoia gekämpft.
+Ich war noch nie offen mit jemandem über mein Leben, nur um zu sehen, wie es nach hinten losgeht.
+Ich hatte noch nie einen Freund (keine Freunde? Umzug)
+Ich hatte noch nie einen Freund, an den ich wirklich geglaubt habe.
+Ich hatte noch nie das Gefühl, das andere Geschlecht zu sein.
+Ich hab mich noch nie dafür entschieden, zu bleiben oder die Polizei zu rufen.
+Ich hatte noch nie Angst davor, dass jemand aus dem Gefängnis entlassen wird.
+Ich hab es noch nie verpasst, in der Reha oder in der Psychiatrie zu sein (wenn Sie es vermissen, ziehen Sie um)
+Ich hatte noch nie ein Tagebuch oder eine Zeitschrift
+Ich hab noch nie jemanden gehabt, der mich für das, was ich durchgemacht habe, verleugnet oder niedergeschlagen hat.
+Ich hab noch nie in einer Beziehung gespielt oder über meine Verletzungen gelogen.
+Ich hab noch nie etwas gestohlen oder etwas völlig Verrücktes getan, weil ich süchtig bin.
+Ich hab noch nie eine Methode der Selbstbeschädigung benutzt, um aus einer Situation herauszukommen.
+Ich hab noch nie nach dem Aufwachen geweint.
+Ich wurde noch nie von einem Schwarm abgelehnt.
+Ich hab noch nie verstanden, wie optimistisch die Menschen sind.
+Noch nie wurde ich gefragt, wie ich mich wirklich fühle.
+Noch nie habe ich die Maske so gut getragen, dass die Leute denken, es geht mir gut.
+Ich hab noch nie die Selbstmord-Hotline benutzt.
+Ich hab noch nie jemanden vor dem Selbstmord gerettet.
+Ich war noch nie die Schulter zum Ausweinen
+Ich hab noch nie abgetrieben.
+Ich hab noch nie mit einer Fehlgeburt zu tun gehabt.
+Ich hab noch nie eine Scheidung durchgemacht.
+Ich bin noch nie von meinen Eltern verlassen worden.
+Ich war noch nie in einer Pflegefamilie.
+Noch nie habe ich eine Freundin so sehr vermisst, dass ich bei einem zufälligen Gedanken an sie weinte.
+Ich war noch nie der Freund, der jemanden aus der Hölle befreit und wieder auf die Beine gebracht hat.
+Ich hab noch nie Krebs gehabt.
+Ich wurde noch nie in eine Anti-Schwulen-Konvertierungseinrichtung eingewiesen.
+Ich musste noch nie aufgeben oder mir mein Kind wegnehmen lassen.
+Ich hab noch nie mein Leben hinter mir gelassen, als ich herausfand, dass das Baby nicht von mir ist.
+Ich hab noch nie gesehen, wie jemand, den ich kannte, vor meinen Augen erschossen wurde.
+Niemals musste mir gesagt werden, dass mein Verhalten in einer Beziehung missbräuchlich oder anormal ist.
+Niemals habe ich mich verbal so sehr beschimpft, dass ihre Worte nichts bedeuteten, verglichen mit dem, was ich mir sagte
+Niemals habe ich es schwierig gefunden, eine Umarmung zu akzeptieren, wegen der körperlichen Misshandlungen, die ich erlitten habe.
+
+
+[Fetisch]
+Ich hab noch nie Futas, Shemales oder Transsexuelle gemocht.
+Ich hab Pelze noch nie gemocht.
+Ich hab Hentai noch nie gemocht.
+Ich hab es noch nie gemocht, dass Sissy trainiert
+Niemals habe ich es gemocht, dass sich das Blut
+Ich hab Amputationen noch nie gemocht.
+Ich hab noch nie gerne geschwängert, geschwängert und/oder gezüchtet.
+Ich hab Laktation noch nie gemocht.
+Ich hab Inflation noch nie gemocht.
+Niemals habe ich es gemocht, dass Tentakel
+Ich hab noch nie Monster, Dämonen, Orks, etc. gemocht.
+Ich hab noch nie Fantasiewesen wie Elfen, Engel, Magier etc. gemocht.
+Ich hab BDSM noch nie gemocht.
+Ich hab noch nie rauen Sex gemocht.
+Ich hab Inzest noch nie gemocht.
+Ich hab noch nie Lollis gemocht.
+Ich hab Yaoi oder Yuri noch nie gemocht.
+Ich hab es noch nie gemocht, dass r*pe
+Ich hab Hypnose, Indoktrination oder Gehirnwäsche nie gemocht.
+Ich hab Sklaverei noch nie gemocht.
+Ich hab Masochismus noch nie gemocht.
+Ich hab Sadismus noch nie gemocht.
+Ich hab noch nie gerne tätowiert, geschnitzt und/oder gebrandmarkt.
+Ich hab Piercings noch nie gemocht.
+Ich hab noch nie gern mit Wachs gespielt.
+Ich hab noch nie ein Seil oder eine Kette gemocht.
+Ich hab das Messerspiel noch nie gemocht.
+Ich hab Rollenspiele nie gemocht.
+Ich hab Halsbänder noch nie gemocht.
+Ich mochte noch nie Augenbinden und oder Knebel.
+Noch nie habe ich Doppelpenetration mehr gemocht
+Ich hab Dirty Talk oder Demütigung noch nie gemocht.
+Ich hab Voyeurismus noch nie gemocht.
+Ich hab Exhibitionismus noch nie gemocht.
+Ich hab es noch nie gemocht, anale und oder anstößige
+Ich hab noch nie übergroße C*Cs gemocht.
+Niemals habe ich Füße gemocht.
+Ich hab es nie gemocht, zu küssen oder zu knutschen.
+Ich hab es noch nie gemocht, dass schlampige Sekunden
+Niemals habe ich c*m weiblich oder männlich gemocht
+Ich hab Dreier und Vierer noch nie gemocht.
+Ich hab Vampirismus noch nie gemocht.
+Ich hab Wassersport noch nie gemocht.
+Ich hab noch nie ein Atemspiel in irgendeiner Form (Ersticken oder gewürgt werden) gemocht.
+Ich hab Injektionen jeglicher Art noch nie gemocht.
+Ich hab noch nie gerne Feuer gespielt (brennen oder verbrannt werden)
+Ich hab es noch nie gemocht, wenn ich mit der Kante
+Ich hab noch nie ein Steckspiel oder Fisting gemocht.
+Ich hab Shibari noch nie gemocht.
+Ich hab es noch nie gemocht, dass eine Suspension
+Ich hab das Anbetungsspiel noch nie gemocht.
+Ich hab Verliese noch nie gemocht.
+Ich hab es nie gemocht, Händchen zu halten.
+Ich hab Glory Holes noch nie gemocht.
+Ich hab Entführung nie gemocht.
+Ich hab öffentliche Demütigungen nie gemocht.
+Ich hab ferngesteuertes Spielzeug noch nie gemocht.
+Ich hab Spielzeug noch nie gemocht.
+Ich hab Shouta noch nie gemocht.
+Ich hab es noch nie gemocht, dass die Entjungferung
+Ich hab noch nie gerne Perioden-Sex gehabt.
+Ich hab es noch nie gemocht.
+Ich hab Nackttraining noch nie gemocht.
+Niemals habe ich Dessous gemocht.
+Ich hab noch nie Quickies gemocht.
+Ich hab noch nie lang anhaltenden Sex speziell 3 Stunden oder länger gemocht.
+Ich hab noch nie gerne Sex im Bad, in der Badewanne oder unter der Dusche gehabt.
+Ich hab es noch nie gemocht, beim Masturbieren zuzuschauen oder beobachtet zu werden.
+Ich hab noch nie professionellen Sex wie ein Lehrer und Schüler gemocht.
+Ich hab noch nie ältere Frauen oder Männer von 10 Jahren oder mehr gemocht
+Ich hab noch nie jüngere Frauen oder Männer von 10 Jahren oder mehr gemocht
+Noch nie habe ich Brüste mehr gemocht als
+Niemals habe ich p*ssy mehr gemocht als c*ck
+Niemals habe ich c*ck mehr gemocht als p*ssy
+Ich hab noch nie Zwerge (4 Fuß 11 Zoll) oder kleinere Menschen gemocht.
+Ich hab es noch nie gemocht, wenn dünne Leute
+Ich hab noch nie größere Menschen gemocht.
+Ich hab es noch nie gemocht, wenn fette Leute
+Ich mochte noch nie zierliche Menschen.
+Ich hab muskulöse Menschen noch nie gemocht.
+Noch nie habe ich Halbrassen wie Nekos mehr gemocht
+Ich hab es noch nie so sehr gemocht, mündlich zu geben.
+Ich hab noch nie Tussis oder Kens gemocht.
+Ich hab Körperbehaarung noch nie gemocht.
+Ich hab es noch nie gemocht, dass ein Stromschlag
+Ich hab Korruption noch nie gemocht.
+Ich hab noch nie berauschten Sex gemocht.
+Ich hab Erpressung noch nie gemocht.
+Ich hab noch nie Nerds oder Geeks gemocht.
+Ich hab nie etwas von Bestialität oder Zoologie gehalten.
+Ich hab das Rauchen noch nie gemocht.
+Ich hab c*m-Swapping (jemanden mit c*m im Mund küssen) noch nie gemocht.
+Ich hab es nie gemocht, mehr c*mmed oder c*mming zu sein (Gesichtsbehandlung)
+Ich hab es noch nie gemocht, c*mmed in oder c*mming in mehr (Creampie)
+Ich hab Kannibalismus noch nie gemocht.
+Ich hab rituellen Sex noch nie gemocht.
+Ich bin noch nie über einen Akzent geil geworden
+Ich bin noch nie geil geworden, wie jemand
+Ich hab ASMR noch nie gemocht.
+Ich hab Masturbationsunterricht noch nie gemocht.
+Ich hab Videospielpornos noch nie gemocht.
+Ich hab ShadBase noch nie gemocht.
+Ich hab noch nie gerne verhauen, gepaddelt, gepeitscht und/oder gepeitscht.
+Ich hab Goreanisch nie gemocht.
+Ich hab noch nie Dienstmädchen und Butler gemocht.
+Ich mochte noch nie Krankenschwestern oder Ärzte
+Ich hab noch nie Vanille-Sex gemocht.
+Ich hab romantischen Sex noch nie gemocht.
+Niemals habe ich Erp- oder Cyber-Sex mehr gemocht als echten Sex.
+Ich hab Nekrophilie noch nie gemocht.
+Ich mochte noch nie Latex und oder Leder.
+Ich hab noch nie gerne im Alter gespielt.
+Ich hab es noch nie gemocht, dass C*cking oder Cuckolding
+Niemals habe ich das Femdom oder die Doms gemocht
+Ich hab noch nie Subs, Haustiere oder Sklaven gemocht.
+Ich hab Bären noch nie gemocht.
+Ich hab Twinks noch nie gemocht.
+Ich hab MILFs noch nie gemocht.
+Ich hab Pumas noch nie gemocht.
+Ich hab Butch-Frauen noch nie gemocht.
+Ich hab noch nie Femme-Frauen gemocht.
+Ich hab es noch nie gemocht, beim Sex Absätze zu tragen.
+Ich hab anal nie mehr gemocht als ein anderes Loch.
+Ich hab noch nie bekleideten Sex gemocht.
+Ich hab noch nie gern auf dem Eis gespielt.
+Ich hab noch nie gerne Essen gespielt.
+Ich hab noch nie Schleim und oder Bukk*ke gemocht
+
+
+[Beziehung & Dating]
+Ich hab ihn noch nie in das falsche Loch gesteckt.
+Ich hatte noch nie Versöhnungssex am selben Tag des Kampfes.
+Ich hatte noch nie betrunkenen oder high Sex
+Ich hab noch nie Sex angeboten, um etwas zu erreichen.
+Ich war noch nie in einer offenen Beziehung.
+Ich war noch nie das Seitenteil
+Ich hab noch nie um einen Dreier gebeten.
+Niemals habe ich mich für das Swingen
+Ich hab noch nie mit Analverkehr oder Peggy experimentiert.
+Ich war noch nie mit jemandem zusammen, der 10 Jahre älter oder jünger ist.
+Niemals habe ich mit meinen bedeutenden anderen erotischen oder sonstigen
+Ich hatte noch nie Geburtstags- oder Feiertagssex
+Ich war noch nie verlobt oder verheiratet
+Ich hab noch nie auf einer Hochzeit gesprochen und sie abgesagt bekommen.
+Ich hab noch nie jemanden gestoppt, weil ich zu high oder betrunken war.
+Ich hatte noch nie einen One-Night-Stand, aus dem am nächsten Tag eine Beziehung wurde.
+Ich hab noch nie jemanden in einem Spiel irgendeiner Sorte getroffen und dann im echten Leben
+Ich hab noch nie jemanden gedatet, der ein Psychopath oder Soziopath war.
+Ich hab noch nie mit jemandem über das Telefon Schluss gemacht.
+Ich hab noch nie betrogen.
+Ich war noch nie mit jemandem zusammen, nur wegen seines Geldes.
+Ich hab noch nie mit jemandem zusammengewohnt, nur wegen des Sex.
+Ich hatte noch nie einen Dreier mit meiner Lebensgefährtin und einem Verwandten von ihr oder mir (Beispiel: du hast sie und ihre Schwester gefickt).
+Ich hab noch nie betrogen, während meine Lebensgefährtin im Einsatz war.
+Ich hab noch nie jemanden beim Sex mit dem falschen Namen angesprochen.
+Ich hab noch nie von meiner Lebensgefährtin gestohlen.
+Ich hatte noch nie ein Blind Date, das so gut funktioniert hat.
+Ich hatte noch nie einen Freund mit Vorteilen.
+Ich musste noch nie jemanden aufgeben, den ich liebe, weil er nicht mehr stabil war.
+Ich hab mich noch nie in jemanden verliebt.
+Ich hab noch nie gegen meine Lebensgefährtin gewettet.
+Ich hab noch nie über meine Interessen an jemandem gelogen, nur um mich mit jemandem zu verabreden.
+Ich hab meine Lebensgefährtin noch nie mit einer Schwangerschaftsangst ausgetrickst.
+Ich hab noch nie an die Liebe auf den ersten Blick geglaubt.
+Niemals habe ich geglaubt, dass ich meiner Lebensgefährtin buchstäblich alles ohne Angst erzählen könnte.
+Ich hab noch nie jemanden verprügelt.
+Ich hab noch nie einen Ex gedemütigt.
+Ich hab noch nie etwas für meine Lebensgefährtin versaut.
+Ich musste noch nie lügen, wenn es darum ging, wie viel ein Hobby kostet.
+Ich hab noch nie einen Porno mit einem anderen wichtigen
+Ich hab noch nie jemanden durch ein Videospiel betrogen.
+Ich hab noch nie mit jemandem aus einer Rollenspielfamilie, zu der ich gehörte, geendet (Beispiel: RPing als Vater und man geht am Ende mit seiner RP-Mutter IRL aus)
+Ich war noch nie mit mehr als einer Person gleichzeitig zusammen.
+Ich hab noch nie mit jemandem Schluss gemacht wegen etwas, das er tut oder angefangen hat.
+Ich hab mich noch nie auf den ersten Blick in jemanden verliebt und bin mit ihm ausgegangen.
+Ich hab noch nie jemandem innerhalb des ersten Monats nach einem Date gesagt, dass ich ihn liebe.
+Ich war noch nie länger als ein Jahr mit jemandem zusammen.
+Ich war noch nie mit jemandem weniger als einer Woche zusammen.
+Ich war noch nie in einer stabilen Beziehung.
+Niemals bin ich zu einem schlechten Ex zurückgekehrt.
+Ich hab mich noch nie mit jemandem zufrieden gegeben.
+Ich hab noch nie jemanden aus meinem Leben geworfen, der obdachlos war.
+Ich hab noch nie jemanden in einem Club oder einer Bar getroffen.
+Ich hab noch nie jemanden getroffen, wo ich arbeite.
+Ich hab noch nie jemandem gesagt, dass ich für ihn sterben würde, und es auch so gemeint.
+Nie hat man mir gesagt, dass ich ein guter Zuhörer bin.
+Ich hatte noch nie einen Kampf mit meiner jetzigen Lebensgefährtin.
+Ich hab mich noch nie in einer Beziehung benutzt gefühlt.
+Ich hab noch nie jemanden gedatet, der trans ist.
+Ich hab noch nie einen Kuss gehabt, der rein elektrisch war.
+Ich war noch nie glücklicher als etwas zu tragen, das mir gehörte (Beispiel: Freundin im Hemd des Freundes)
+Ich hab noch nie mehr als 200 Dollar für Dessous in einem einzigen Einkauf ausgegeben
+Ich hab noch nie Spielzeug mit meiner bedeutenden
+Ich hab noch nie freaky oder perversen Porno mit meiner Lebensgefährtin gesehen.
+Ich hab noch nie in der Sex- oder Erotikbranche gearbeitet, während ich mit jemandem
+Ich hab noch nie mehr als 200 Dollar für Sexspielzeug in einem einzigen Kauf ausgegeben
+Ich hab noch nie versucht, eine Beziehung zum Funktionieren zu bringen.
+Ich hab mich noch nie wirklich für die Beziehung eines anderen gefreut
+Ich hab noch nie eine Stunde oder länger rumgemacht.
+Ich hab noch nie mit dem Herzen von jemandem gespielt.
+Ich hab mich noch nie einfach nicht um ein Merkmal oder eine Eigenschaft in meiner Lebensgefährtin gekümmert (Sie hassen sie als Gamer, etc.)
+Ich hab noch nie geglaubt, dass man eine Beziehung ohne Vertrauen haben kann.
+Nie habe ich mich jemals gezwungen gefühlt, mit jemandem wegen seiner Instabilität zu bleiben (sie sind selbstmordgefährdet und reden immer darüber, dass man bleibt, weil man Angst hat, dass sie es tun)
+Ich hab noch nie ein romantisches Date geplant, bei dem kein Sex im Spiel war.
+Ich war noch nie in einer Situation mit meiner Lebensgefährtin, mit der ich überhaupt nicht einverstanden war (sie fangen einen Streit mit jemandem an und du willst keinen Teil davon haben).
+Niemals habe ich jemals etwas Scharfes gegessen, nur damit meine Lebensgefährtin nach einem Bissen fragt und sie leiden sieht.
+Ich hab noch nie meinen Ex gestalkt.
+Ich bin noch nie auf meinem Partner eingeschlafen, während ich ferngesehen habe.
+Ich hab noch nie eine Adrenalin-Junkie-Aktivität mit meinem Partner gemacht, wie Fallschirmspringen
+Ich hab noch nie Tinder benutzt.
+Ich hab noch nie ein Speed-Dating versucht.
+Ich hab noch nie jemanden gedatet, mit dem ich von Freunden
+Ich war noch nie von meinem Partner gestresst.
+Ich hab noch nie ein Doppeldate gemacht.
+Ich hab noch nie von meinem zukünftigen Hochzeitstag geträumt.
+Ich hab noch nie versucht, das Telefon meines Partners auf ein iPhone/Android umzustellen.
+Ich hab noch nie versucht, jemanden zu beeindrucken, der mich hasst.
+Ich bin noch nie mit einer bedeutenden anderen Person gereist.
+Ich hab noch nie mit einem bedeutenden anderen Menschen gegessen und gestresst.
+Ich hatte noch nie ein Picknick-Date
+Ich hab noch nie zwei "Wahrheiten und eine Lüge" als Gesprächsbeginn gespielt
+Ich hab noch nie mit einer viel älteren Frau/Mann geflirtet
+
+
+[Illegal]
+Ich wurde noch nie mit einem Gefängnisköder
+Ich hab noch nie jemanden ausgeraubt.
+Ich hab noch nie mehr als 1.000 Dollar gestohlen, oder einen Gegenstand
+Ich hab noch nie jemanden um mehr als 1.000 Dollar betrogen.
+Ich hab noch nie jemanden erschossen oder erstochen.
+Ich hab noch nie Drogen mit einem Gewicht von 1 Pfund oder mehr gekauft oder verkauft
+Ich war noch nie Teil einer Gang oder mit einer Gang verbunden.
+Ich hab noch nie ein Bestechungsgeld genommen oder gegeben.
+Ich hab noch nie jemanden entführt oder als Geisel genommen
+Ich hab noch nie jemanden gespickt (Roofies, gegeben Topf Brownies, ohne dass der andere weiß, etc.)
+Ich hab noch nie irgendeine Form von Medien oder Kunst raubkopiert.
+Ich hab noch nie etwas im dunklen Netz gemacht.
+Ich hab noch nie etwas getaggt oder gestempelt (Banden-Graffiti)
+Ich hab noch nie Graffiti gemacht.
+Ich hab noch nie Kreditkarteninformationen gestohlen.
+Ich hab noch nie die Identität von jemandem gestohlen.
+Ich hab mich noch nie für jemanden ausgegeben.
+Ich hab noch nie einen Ort betreten.
+Ich hab noch nie jemanden gestalkt.
+Ich hab noch nie ein Gebäude oder eine Wohnung mit einem Casesystem versehen
+Ich hab noch nie ein Fahrzeug gestohlen.
+Ich hab noch nie eine illegale Waffe besessen.
+Ich hab noch nie einen Massenmord gewollt und geplant.
+Ich hab noch nie eine Leiche entsorgt.
+Ich hab noch nie einen Betrug begangen.
+Ich hab noch nie einen Raubüberfall mit einem oder mehreren Leuten organisiert.
+Ich hab noch nie jemanden fälschlicherweise beschuldigt, vor Gericht gestellt und gewonnen.
+Ich hab mich nie unerlaubt entfernt oder bin desertiert
+Ich hab noch nie eine Prostituierte oder einen Begleiter angeheuert oder war jemals
+Ich hab noch nie ein bösartiges Programm gemacht oder benutzt.
+Ich hab noch nie einen Kabelservice gestohlen.
+Ich hab noch nie Vandalismus begangen, der zu einem Schaden von über 10.000 Dollar führen könnte.
+Ich war noch nie auf Bewährung oder Bewährung (nicht in der Schule)
+Ich hab noch nie Brandstiftung begangen.
+Ich hab noch nie jemanden ins Krankenhaus eingeliefert.
+Ich war noch nie Teil eines Aufstandes.
+Ich hab noch nie einen Regierungsangestellten angegriffen.
+Ich hab noch nie jemanden gefoltert.
+Ich war noch nie ein Teil des Sexhandels
+Ich war noch nie öffentlich berauscht
+Ich bin noch nie betrunken Auto gefahren.
+Ich hab noch nie ein Hassverbrechen begangen.
+Ich hab nie dem KKK, den NAZIs oder einer anderen Hassgruppe beigetreten sein oder beitreten wollen.
+Ich war noch nie Teil einer bösartigen Kampagne auf 4ch*n oder 8ch*n
+Ich hab noch nie illegale Feuerwerkskörper besessen und benutzt.
+Ich hab noch nie in einer Werkstatt gearbeitet.
+Ich hab noch nie etwas repariert, nur um absichtlich etwas beschädigt zu haben, um mein Reparaturgeschäft zu fördern.
+Ich war noch nie Teil irgendeiner Form von Fehlverhalten
+Ich hab noch nie jemanden schikaniert oder belästigt.
+Ich hab noch nie Kinder an Hall-O-Ween wegen ihrer Süßigkeiten bestohlen
+Ich hab noch nie das Haus von jemandem auf einer Party zerstört.
+Ich hab noch nie jemanden mit einer Drohne ausspioniert
+Ich war noch nie ein Spanner.
+
+
+[Persönlich]
+Ich bin noch nie vertrieben worden.
+Ich hab noch nie ein College oder eine Universität besucht und beendet, was ich wollte (Zertifikat, Lizenz, Abschluss, Kurs, etc.)
+Ich hab noch nie ein geparktes Fahrzeug angefahren.
+Ich bin noch nie ausgeraubt worden.
+Ich wurde noch nie unter Drogen gesetzt.
+Ich hätte nie gedacht, dass sich meine politischen Ansichten ändern würden.
+Ich hab noch nie an eine Religion geglaubt.
+Niemals habe ich eine "dunkle" Religion wie Heidentum, Wicca, Satanismus, etc. ausprobiert.
+Ich hatte noch nie einen Autounfall, der tödlich endete.
+Ich hab nie versucht, trendy zu sein.
+Ich hab mein Heimatland nie verlassen.
+Ich bin noch nie gestochen worden oder erstochen worden
+Ich bin noch nie gesprungen oder überfallen worden
+Ich hab noch nie jemanden erschossen oder wurde erschossen.
+Ich bin noch nie länger als 40 Stunden wach gewesen.
+Ich musste noch nie ein Tier einschläfern (Beispiel: mit dem Auto angefahren - noch lebendig, aber kaum angefahren und eingeschläfert)
+Ich hab noch nie irgendwo getrunken und gekotzt, außer in der Toilette oder im Waschbecken.
+Ich war noch nie im Jugendgefängnis, im Knast, in der Reha oder in der Psychiatrie.
+Ich hab mich noch nie aus einem Ticket geflirtet oder versucht.
+Ich hab noch nie etwas belauscht und bin am Ende für immer vernarbt.
+Ich hab noch nie einer Katze die Schnurrhaare abgeschnitten.
+Ich war noch nie ein Pyromantiker.
+Ich hab noch nie den designierten Fahrer
+Ich hab noch nie an einen Verhaltenskodex geglaubt (z.B.: Fick nicht die Freundin eines Freundes, etc.)
+Ich hab noch nie geglaubt, dass ich, wenn ich den letzten Schnaps trinke, die nächste Packung oder Flasche kaufe.
+Ich hab noch nie jemanden gedemütigt.
+Ich hab noch nie etwas getan, das meinen Freund in Schwierigkeiten gebracht hat.
+Ich hab mich noch nie angeschissen.
+Ich hab noch nie mit jemandem oder mit Menschen nackt gebadet.
+Ich bin noch nie nackt oder oben ohne im Auto gefahren
+Ich hab noch nie versucht, mich aus einer Situation zu befreien, weil ich das Gefühl hatte, es gäbe nichts mehr zu reden.
+Ich hab noch nie jemanden geblitzt.
+Ich hab noch nie ein Exemplar des Anarchistischen Kochbuchs besessen und mindestens ein Rezept verwendet.
+Ich hab noch nie einen Blutpakt geschlossen.
+Ich hab nie in Betracht gezogen oder plastische Chirurgie in Betracht gezogen.
+Ich bin noch nie in einen zufälligen Kampf geraten.
+Ich wollte noch nie jemanden ermorden.
+Ich hab noch nie jemanden, der schwanger oder älter ist, absichtlich gestolpert
+Ich hab noch nie 100 Dollar oder mehr an einen Obdachlosen gegeben.
+Ich hab noch nie Nacktbilder an die falsche Person geschickt.
+Ich war noch nie auf einem Konzert.
+Ich hab noch nie eine Toilette in einer öffentlichen Toilette verstopft.
+Ich war noch nie auf zwei oder mehr Drogen.
+Ich hab noch nie mehr gegessen, als man mir gesagt hat, von etwas, das mit Gras gemacht wurde.
+Ich hab noch nie auf eine Fahrt durch die Speisekarte gestarrt, während ich high war und vergessen habe, ob ich
+Ich wurde noch nie verhaftet, mit einer Geldstrafe belegt oder wegen etwas verurteilt.
+Ich hab mich noch nie in ein Gebäude oder eine Veranstaltung geschlichen
+Ich hab noch nie Mondschein (amerikanischer Whiskey, der im Wald gebraut wird) probiert.
+Ich hab noch nie getrunken, bevor ich 21 wurde.
+Ich hab noch nie einen Body Shot getrunken.
+Ich hab noch nie einen flammenden Schuss getrunken
+Ich hab noch nie Strip-Poker gespielt.
+Ich hab mir noch nie meine Brustwarzen und/oder Genitalien piercen lassen
+Ich hab noch nie eine Stripperin, eine Nutte, einen Begleiter etc. für eine Party engagiert.
+Ich hab noch nie jemanden getötet.
+Ich hab nie Freunde und oder Familie aufgegeben, um mich selbst zu verbessern.
+Ich bin noch nie getasert oder mit Pfefferspray besprüht worden.
+Ich bin noch nie von einem Tier beschissen oder angepisst worden.
+Ich war noch nie Teil eines Live-Action-Rollenspiels (Furries zählen nicht, Kriegsnachstellungen, Dungeons und Drachen zählen)
+Ich bin noch nie aus einem Team geflogen.
+Ich hab noch nie die Statistiken eines Spiels und oder seltene Gegenstände benutzt, um mit jemandem zu flirten
+Ich hab noch nie etwas beim Kochen in Brand gesteckt
+Ich hab nie in Frage gestellt, wer für eine Superheldenstadt wie Batman oder Joker besser ist
+Ich hab noch nie wegen eines Comics geweint.
+Ich hab noch nie so getan, als würde ich jemanden kennen, den ich nicht kenne.
+Ich war noch nie ein Flügelmann und erfolgreich
+Ich hab mich noch nie ohne Kontakt zur Popkultur gefühlt.
+Ich hatte noch nie 1GB Internet in meinem Wohnort
+Ich hab noch nie jemandem eine Sex-Hotline-Nummer gegeben, um zu vermeiden, dass er mich anruft.
+Ich hab noch nie jemandem die Nummer der Selbstmord-Hotline gegeben, um zu vermeiden, dass er mich anruft.
+Ich hab noch nie für einen Freund finanziell gedeckt und nichts dafür erwartet.
+Ich hab noch nie hinter dem Rücken von jemandem geschwatzt.
+Ich war noch nie high und habe nur auf Lichter oder Weihnachtsbeleuchtung gestarrt
+Ich war noch nie der betrunkene Philosoph
+Ich hab noch nie einen Joint mit der Bibel gerollt.
+Ich hab noch nie Pornos in irgendeiner Form gekauft.
+Ich hab noch nie jemanden für Patreon abonniert.
+Ich hab noch nie jemanden dazu gebracht.
+Ich hab mich nie um die Titel meiner Pornos gekümmert.
+Ich hab noch nie masturbiert und kam unter 1 Minute rein.
+Ich hab noch nie ein Körperkissen besessen.
+Ich hab noch nie gesehen, wie ein Geschenk, das ich jemandem gemacht habe, als nichts angesehen wird.
+Ich war noch nie Teil einer Sekte.
+Ich hab noch nie etwas Paranormales erlebt.
+Ich hab noch nie meine schlimmste Angst erlebt.
+Ich bin noch nie mit Pornos in Ohnmacht gefallen.
+Ich hab noch nie mehr als 1.000 Dollar in einem Stripclub ausgegeben.
+Ich wurde noch nie dabei erwischt, wie ich über jemanden geredet habe und diese Person hinter mir stand.
+Ich hab noch nie meine Pornos mit jemandem geteilt.
+Ich hab noch nie ein Haustier aus Versehen getötet.
+
+
+[Gaming]
+Ich hab noch nie mehr als 1.000 Dollar in einem Videospiel in 1 Jahr ausgegeben
+Ich hab noch nie mehr als 4.000 Dollar für ein Videospiel ausgegeben.
+Ich hab noch nie ein Spiel für mehr als 2.000 Dollar unterstützt.
+Ich hab noch nie mehr als 1 Top-Tier Founder-Pack besessen (Beispiele: Warframe, Firefall, ArcheAge, Tera, etc.)
+Ich hab noch nie in einem Spiel gehackt oder modifiziert, sei es Spielstandsbearbeitung, Targetbotting, Währungsmanipulation, etc.
+Ich hab noch nie ein einzelnes Spiel länger als 48 Stunden am Stück gespielt.
+Ich hab noch nie in einer Flasche gep*ssed, um ein Spiel nicht zu verlassen.
+Ich hab noch nie tatsächlich P2W-Optionen genutzt.
+Ich hab noch nie mehr als ein Exemplar von Skyrim, Minecraft, PUBG und/oder Fortnite besessen.
+Ich hab noch nie in einem MMORPG Rollenspiele gespielt
+Ich war noch nie in ein erotisches Rollenspiel in einem MMORPG involviert
+Ich hab noch nie nach einem Spielporno gesucht.
+Noch nie war ich so giftig, dass ich jemanden dazu gebracht habe, aus Wut aufzuhören.
+Ich hab noch nie ein Spiel aufgegeben.
+Ich hab mich nie um die visuelle Treue des Spiels über die Spielqualität gekümmert.
+Ich hab noch nie ein Kupplungs-Ass bekommen.
+Ich hab noch nie jemanden manipuliert, etwas zu sagen, wofür er von seinen Eltern bestraft wurde.
+Ich war noch nie der rassistische Verlierer (verlor gegen ein deutsches Kind und nannte es einen Camping-Nazi)
+Ich hab noch nie Leute bei erotischen Rollenspielen beobachtet.
+Ich hab noch nie etwas getan, um nicht dafür getreten zu werden, dass ich AFK bin.
+Ich hab noch nie jemanden aus meiner Sippe oder Gilde wegen eines Laches rausgeworfen.
+Ich hatte noch nie Sex mit einem Clanmitglied oder einer Gilde.
+Ich hab noch nie von einem Clan oder einer Gilde gestohlen, in der ich war.
+Ich hab noch nie einen Putsch gegen meinen Clananführer oder Gildenmeister geplant (jemanden aus der Macht genommen)
+Ich hab noch nie eine Spielwährung gekauft oder verkauft.
+Ich bin noch nie mit einem Flugzeug abgestürzt und habe alle darin getötet, aber nicht mein Ziel.
+Ich bin noch nie aus einem Luftfahrzeug ausgestiegen und habe alle darin getötet, als es abstürzte.
+Noch nie habe ich jemanden gesehen, der so schlecht oder neu in einem Videospiel war, dass ich nicht anders konnte, als ihn zurückzusetzen.
+Ich war noch nie so wütend auf ein Spiel, dass ich etwas gebrochen habe.
+Ich hab noch nie jemanden wegen eines Spiels absichtlich verletzt.
+Ich hab noch nie jemandem beim Spielen aus Versehen wehgetan.
+Ich hab noch nie jemanden als Freund durch ein Spiel verloren oder entfernt
+Ich war noch nie ein Elitist (Sie spielen die höchsten Ränge und verkehren nicht mit Noobs)
+Ich war noch nie ein Profispieler oder in den höchsten Rängen eines Spiels
+Ich hab noch nie ein Ass bekommen.
+Ich hab noch nie mehr als drei Personen innerhalb von 10 Sekunden erdolcht.
+Ich hab noch nie eine Atombombe in einem Call of Duty-Spiel bekommen.
+Ich hab noch nie einen vollen 9/11 oder Kamikaze erlebt, während ich in einem Jet oder Flugzeug saß.
+Ich war noch nie positiv in einem Spiel, in dem ich nur Selbstmordattentate beging.
+Ich hab noch nie ein Spiel zu ernst genommen.
+Ich hab es noch nie genossen, lässig zu spielen.
+Ich wollte noch nie eine Ganzkörperverfolgung für etwas anderes als Sex.
+Ich hab noch nie einen VR-Porno oder ein Videospiel gespielt oder gesehen.
+Ich hab nie in Betracht gezogen oder versucht, ein Streamer oder Youtube-Ersteller zu werden
+Ich hab noch nie eine 1 zu 1 Million getötet.
+Ich hatte noch nie einen richtigen Benutzernamen (Beispiele: Reaper, Ambulance, Doctor, Hardcore, etc.)
+Ich hab noch nie etwas über ein offenes Mikrofon gehört.
+Ich hab noch nie so viel Scheiße gebaut, dass ich Seppuku begangen habe.
+Ich war noch nie ein Kerker-, Gerichts- oder Raubzugführer
+Ich war noch nie ein Haupttank und oder Heiler
+Ich hab mich noch nie für die Fallout-Serie oder die Elder Scrolls-Serie interessiert.
+Ich war noch nie in der Mass Effect Serie oder der Dragon Age Serie
+Ich hab mich noch nie für FPS- oder RPG-Spiele interessiert.
+Ich hab noch nie fünf Sterne im GTA V bekommen und länger als eine Stunde durchgehalten, ohne zu versuchen, die Cops zu verlieren.
+Ich hab noch nie einen Fehler, ein Feature oder einen Spielbruch zu meinem eigenen Vorteil ausgenutzt.
+Ich hab noch nie ein Konto gekauft oder verkauft.
+Ich hab nie in Betracht gezogen, versucht, oder wurde ein Cam Model oder Pornostar, um eine größere Fangemeinde auf Youtube oder als Streamer zu bekommen
+Ich hab noch nie Geld, eine Trophäe oder einen Titel in einem Videospiel gewonnen.
+Ich hab noch nie ein Spiel seit der Beta gespielt und dabei zugesehen, wie es gestorben ist (nur beim Herunterfahren des Servers)
+Ich hab noch nie ein einziges Spiel mehr als 80 Stunden in einer Woche gespielt.
+Ich hab noch nie ein einziges Spiel länger als 1.000 Stunden gespielt.
+Ich hab noch nie ein einziges Spiel länger als 5.000 Stunden gespielt.
+Niemals habe ich mein ganzes Team, das ich noch nie zuvor getroffen habe, für Sch*t und Kichern suizidiert
+Ich hatte noch nie einen Freund, der so scheiße war, dass ich aufgehört habe, mit ihm zu spielen.
+Nie habe ich jemals 2 oder mehr Kills mit einer Martyriumgranate bekommen (Nade fällt nach dem Tod und man bekommt Kills)
+Ich hab noch nie Verstecken in dunklen Seelen gespielt.
+Ich hab noch nie einen Kill in einem Spiel durch Spartan Kick erzielt.
+Ich hab noch nie um eine In-Game-Währung oder ein Powerleveling gebettelt.
+Ich bin noch nie länger als eine Stunde zu niemandem gestreamt.
+Ich hab noch nie 24 Stunden am Stück gestreamt.
+Ich hab nie einen Freund gefunden, kenne sie seit über einem Jahr, nur um zu sehen, dass sie sich nie wieder einloggen.
+Ich hab noch nie jemanden getreten, weil er sich nicht gekuppelt hat.
+Ich hab noch nie eine seltene Haut oder einen Gegenstand für mehr als 419 Dollar verkauft.
+Ich hab noch nie ein Spiel gespielt, das mich zutiefst erschreckt hat.
+Ich hab noch nie ein Spiel gerettet und Gräueltaten begangen, die selbst Hitler in Frage stellen würde.
+Ich hab noch nie Spiele als Bewältigungsmethode gespielt.
+Ich fühlte mich noch nie extrem enttäuscht von einem Spiel, das ich unbedingt wollte.
+Ich hab mir noch nie Streamer oder Youtube-Videos angesehen, um ein besseres Verständnis für ein Spiel zu bekommen.
+Ich hab noch nie eine Party, eine Gruppe, eine Razzia usw. über eine Person wischen lassen.
+Ich hab noch nie ein Brettspiel gespielt, das ich sehr genossen habe.
+Ich hab noch nie Top Fragged und gewonnen mit einer Gesamt-Kill-Summe, die gleich oder größer ist als der Rest meines gesamten Teams zusammen.
+Ich hab noch nie die Schule geschwänzt, um ein Spiel zu spielen.
+Ich hab noch nie etwas von einem Ninja geplündert.
+Niemals habe ich jemals Ninjas geplündert oder muss etwas gerollt und gewonnen, das ich absolut nicht gebrauchen konnte oder von dem ich nicht profitieren konnte, nur um zu trollen
+Ich hab die Final-Fantasy-Serie noch nie genossen.
+Ich hab noch nie einen Spielmechaniker mehr geliebt als alles andere, aber den Rest des Spiels gehasst (bestes Beispiel: Sterbendes Licht - tolle Bewegung, schlechtes Spiel)
+Ich hab mich noch nie mehr um FPS als um die Grafikqualität gekümmert
+Ich war noch nie Trainer oder Mentor in einem Spiel
+Ich wurde noch nie in einem Spiel trainiert oder betreut.
+Ich hab mich noch nie mehr für PvP als für PvE interessiert
+Ich hab noch nie einen Streamer länger als 5 Stunden gesehen.
+Ich hab noch nie gegen oder mit einem Hacker gespielt.
+Ich hab noch nie geglaubt, dass Menschen unter 18 Jahren bestimmte Spiele nicht spielen können sollten.
+Ich hab noch nie die Verbindung zu einem Spiel unterbrochen, um Gesicht, K/D oder W/L zu speichern.
+Ich hab noch nie ein Spiel piriert.
+Ich hab noch nie 5 Spiele hintereinander gewonnen
+Ich hatte noch nie einen K/D oder W/L von oder über 2,0
+Ich hab noch nie ein Ass bekommen, das nur aus Sprengstoff oder Kopfschüssen bestand.
+Ich hab noch nie einen Sprengstoff an oder um jemanden herum angebracht, ohne dass er es herausfindet und ihn damit tötet.
+Ich hab noch nie ein Fahrzeug mit Sprengstoff benutzt und darauf gewartet, dass der Feind es nimmt, und länger als 30 Sekunden gewartet, um es zu sprengen
+Ich hab noch nie ein Spiel vorbestellt.
+Ich hab noch nie eine Collector's Edition eines Spiels gekauft.
+Ich hab noch nie etwas gekauft, das jemand anders benutzt, mit dem Gedanken, dass ich damit besser sein könnte.
+Ich hab noch nie mehr als 100 Dollar für einen Streamer gespendet
+Ich hab noch nie ein Raid oder einen Streamer mit 100 oder mehr Zuschauern veranstaltet.
+Ich hab noch nie einen Streamer gesehen, der keine Zuschauer hatte.
+Ich hab noch nie ein Spiel gespielt, das länger als fünf Jahre gelebt hat.
+Ich hab noch nie ein Spiel gespielt, seit Alpha
+Ich hab noch nie ein Spiel auf dem Testserver gespielt.
+Ich hab noch nie Spiele über 1080p gespielt
+Ich hab noch nie Mods für ein Spiel wie DayZ, Minecraft, Rust, Unturned, etc. erstellt.
+Ich hab noch nie in irgendeiner Form in der Spieleentwicklung gearbeitet
+Nie habe ich jemals ein RTS-Spiel als Gott gespielt und nur gelebt, um zu erobern
+Ich hab noch nie ein Sims-Spiel gespielt und aktiv versucht, niemanden zu töten
+Ich hab noch nie in ein Spiel oder eine Spielserie investiert, zu der ich mehrere Offset-Produkte besaß (World of Warcraft-Bücher etc.).
+Ich hab noch nie einen PC gebaut, der 3.000 Dollar oder weniger kostet
+Ich hatte nie vor, denjenigen zu ermorden, der die erste Eskorte anfertigte.
+Ich hab noch nie etwas spielen wollen, das mir verweigert wurde, weil mein PC es nicht ausführen konnte.
+Ich wurde noch nie rausgerufen, getreten oder beschissen, weil ich kein Mikro in einem Spiel hatte.
+Ich hab noch nie YouTube-Mem-Videos für ein Spiel gesehen.
+Ich hab noch nie ein Indie-Spiel gespielt, es geliebt und empfohlen (welches Spiel?)
+Ich hab noch nie ein Spiel für Erwachsene wie 3DXChat, Bonecraft, Hentai Heroes, etc. gespielt.
+Ich hab noch nie eine echte Freundin oder einen Freund in einem Spiel gefunden
+Ich hab noch nie ein Spiel veranstaltet.
+Ich hab noch nie einen gemieteten Server gehostet.
+Ich bin noch nie beim Spielen in Ohnmacht gefallen.
+Ich hab noch nie ein Dual-PC-System für Streaming und Spiele verwendet.
+Ich hab noch nie 2 oder mehr Monitore benutzt
+Ich hab noch nie eine mechanische Tastatur besessen.
+Ich hab noch nie eine Maus mit Gewichten besessen.
+Ich war noch nie in einer hochrangigen Gilde oder einem Clan.
+Ich hab noch nie Tera, EVE Online, World of Warcraft, Guild Wars, ArcheAge, Black Desert Online, Elder Scrolls Online, EverQuest, RuneScape, DnD: Neverwinter, Perfect World oder Maple Story gespielt.
+Ich hab noch nie Minecraft in Hardcore gespielt und länger als 666 Tage gelebt.
+Ich hab noch nie Minenschiffe gespielt und wurde von einer Klippe gesprengt oder von einer Klippe gestoßen und starb
+Nie habe ich jemals jemanden ausgetrickst, etwas zu tun (ABSOLUTE BRAUCHT EINE GESCHICHTE!) [[ > Ich sagte einem Freund von mir in Bad Company 2 alle 8 Klassen, solange Sie nie ein Fahrzeug berühren, nehmen Sie keinen Sturzschaden, er kaufte die DLC-Klassen und fahren Sie fort, von jedem Gebäude zu springen und zu sterben, um Schaden zu nehmen. Zu dem ich ausspielte und ihm sagte, er solle wechseln, weil es "verwanzt" sei. < ]]
+Ich hab noch nie ein PC-Spiel mit einem Controller gespielt.
+Ich war noch nie Gildenmeister oder Offizier oder ein Clanführer oder Clanoffizier
+Ich wurde noch nie gezwungen, ein Gelegenheitsspieler zu sein, weil das Leben mich einholte
+
+
+[Musik]
+Ich hab noch nie ein Blasinstrument gespielt.
+Ich hab noch nie ein Perkussionsinstrument gespielt.
+Ich hab noch nie ein Saiteninstrument gespielt.
+Ich hab noch nie ein Tasteninstrument gespielt.
+Ich hab noch nie in einem Chor gesungen.
+Ich war noch nie ein Leadsänger
+Ich hab noch nie in einem Duett gesungen.
+Ich hab noch nie ein Solostück in irgendeiner Form gespielt.
+Ich hab noch nie auf der Bühne gespielt oder gesungen.
+Ich hab noch nie auf einer professionellen Veranstaltung gespielt oder gesungen.
+Niemals habe ich alle Formen der Musik geliebt und es auch so gemeint
+Ich war noch nie bei einem Musikfestival.
+Ich war noch nie bei einem Konzert in einer Arena oder auf einer großen Bühne.
+Ich war noch nie auf einem Rave.
+Ich bin noch nie als Punk bezeichnet worden.
+Ich wurde noch nie als Metallkopf bezeichnet.
+Ich bin noch nie als EMO bezeichnet worden.
+Ich wurde noch nie als Gothic bezeichnet.
+Ich war noch nie ein Juggalo
+Ich hab noch nie geglaubt, dass Musik keine Leben retten kann.
+Ich hab die Musik eines Videospiels noch nie nicht geliebt.
+Ich hab mein musikalisches Talent noch nie in einem professionellen Umfeld eingesetzt.
+Ich hab noch nie ein Bandorchester gegründet und über 10.000 Dollar verdient.
+Ich wurde noch nie für eine Band oder ein Orchester rekrutiert.
+Ich hab noch nie jemandem beigebracht, wie man ein Instrument spielt.
+Ich hab noch nie ein Instrument gebaut.
+Ich hab noch nie ein elektrisches Instrument gespielt.
+Ich hab noch nie ein akustisches Instrument gespielt.
+Ich war noch nie ein Straßenkünstler mit meinem Instrument.
+Ich hab noch nie Szenekleidung angezogen.
+Ich hab noch nie gern geredet.
+Ich hab noch nie Underground-Rap gehört
+Ich hab noch nie echten Gangster- oder Narco-Rap gehört.
+Ich hab noch nie gehört, dass Outlaw Country
+Ich hab noch nie Comedy-Songs gehört.
+Ich hab noch nie Karaoke gesungen.
+Niemals hatte ich ein Lied für jede Emotion oder jedes Gefühl
+Niemals habe ich mich von Musik tief berührt gefühlt
+Ich hab noch nie die Musik eines Animes genossen.
+Ich hab noch nie Kifferrock oder Rap gehört, während ich high war.
+Ich hab noch nie Nightcore gehört.
+Ich hab noch nie auf Lo-Fi gehört.
+Ich hab noch nie eine Wiedergabeliste mit über 200 Songs erstellt
+Ich hab noch nie eine Wiedergabeliste in einem bestimmten Musikgenre erstellt.
+Ich hab noch nie Komplimente über meinen Musikgeschmack bekommen.
+Niemals habe ich den Leuten Musik zeigen können, die sie kannten, aber vergessen hatten
+Niemals hatte ich ein schuldiges Vergnügen, ob Lied, Künstler oder Genre.
+Ich hab noch nie eine Episode von Epic Rap Battles gesehen.
+Niemals habe ich jemals in der Lage gewesen, freien Stil (erfordert unbedingt 6 Balken für den Nachweis auf der Stelle)
+Ich war noch nie ein richtiger Groupie (man würde absolut die Chance bekommen, einen Musikkünstler/eine Musikgruppe zu f*ckern)
+Ich war noch nie ein Roadie (du warst mit einer Band, Gruppe oder einem Künstler auf Tournee)
+Ich hab noch nie einen VIP- oder Backstage-Zugangspass zu einem Konzert besessen.
+Ich hab noch nie mehr als 500 Dollar für ein Konzert ausgegeben (Tickets und VIP-Zeug zählen nicht)
+Ich war noch nie in einer Moshgrube.
+Ich hab mir noch nie ein Instrument beigebracht.
+Ich hab noch nie Noten lesen können (wenn du kannst, beweg dich)
